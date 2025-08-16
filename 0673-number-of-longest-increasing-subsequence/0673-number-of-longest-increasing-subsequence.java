@@ -1,39 +1,50 @@
 class Solution {
     public int findNumberOfLIS(int[] nums) {
-        if (nums == null || nums.length == 0) {
-            return 0;
-        }
+       Map<Integer, Map<Integer, Integer>> dp = new HashMap<>();
+        dp.put(-1, new HashMap<>());
+        dp.get(-1).put(Integer.MIN_VALUE, 1);
+        List<Integer> sortedNums = new ArrayList<>();
 
-        int n = nums.length;
-        int[] dp = new int[n];
-        int[] count = new int[n];
-        int maxLength = 0;
+        for (int num : nums) {
+            int insertIndex = bisectLeft(sortedNums, num);
+            if (insertIndex == sortedNums.size()) {
+                sortedNums.add(num);
+            } else {
+                sortedNums.set(insertIndex, num);
+            }
 
-        for (int i = 0; i < n; i++) {
-            dp[i] = 1; // Each element is a subsequence of length 1
-            count[i] = 1; // Each element has one way to form a subsequence
-
-            for (int j = 0; j < i; j++) {
-                if (nums[i] > nums[j]) {
-                    if (dp[i] < dp[j] + 1) {
-                        dp[i] = dp[j] + 1;
-                        count[i] = count[j]; // Reset count to count[j]
-                    } else if (dp[i] == dp[j] + 1) {
-                        count[i] += count[j]; // Add the number of ways
-                    }
+            int total = 0;
+            for (Map.Entry<Integer, Integer> entry : dp.getOrDefault(insertIndex - 1, new HashMap<>()).entrySet()) {
+                int prevNum = entry.getKey();
+                int count = entry.getValue();
+                if (prevNum < num) {
+                    total += count;
                 }
             }
-
-            maxLength = Math.max(maxLength, dp[i]);
+            dp.putIfAbsent(insertIndex, new HashMap<>());
+            dp.get(insertIndex).put(num, dp.getOrDefault(insertIndex, new HashMap<>()).getOrDefault(num, 0) + total);
         }
 
-        int totalCount = 0;
-        for (int i = 0; i < n; i++) {
-            if (dp[i] == maxLength) {
-                totalCount += count[i];
+        int result = 0;
+        for (int count : dp.getOrDefault(sortedNums.size() - 1, new HashMap<>()).values()) {
+            result += count;
+        }
+        return result;
+    }
+
+    private static int bisectLeft(List<Integer> arr, int target) {
+        int left = 0;
+        int right = arr.size();
+
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            if (arr.get(mid) < target) {
+                left = mid + 1;
+            } else {
+                right = mid;
             }
         }
 
-        return totalCount;
+        return left;
     }
 }
