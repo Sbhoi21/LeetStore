@@ -1,6 +1,6 @@
 class Solution {
     public int findNumberOfLIS(int[] nums) {
-                if (nums == null || nums.length == 0) {
+        if (nums == null || nums.length == 0) {
             return 0;
         }
 
