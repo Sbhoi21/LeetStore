@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sbhoi21/LeetStore/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Sbhoi21/LeetStore/tree/master/0724-find-pivot-index) |
 | [1242-matrix-block-sum](https://github.com/Sbhoi21/LeetStore/tree/master/1242-matrix-block-sum) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sbhoi21/LeetStore/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sbhoi21/LeetStore/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Sbhoi21/LeetStore/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Sbhoi21/LeetStore/tree/master/1603-running-sum-of-1d-array) |
@@ -60,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1242-matrix-block-sum](https://github.com/Sbhoi21/LeetStore/tree/master/1242-matrix-block-sum) |
+## Hash Table
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sbhoi21/LeetStore/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Sorting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sbhoi21/LeetStore/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sbhoi21/LeetStore/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
