@@ -10,9 +10,9 @@ class Solution {
         }
 
         // Calculate the maximum XOR for each query
-        for (int i = n - 1; i >= 0; i--) {
-            result[n - i -1] = xorSum ^ ((1 << maximumBit) - 1);
-            xorSum ^= nums[i];
+        for (int i = 0; i < n; i++) {
+            result[i] = xorSum ^ ((1 << maximumBit) - 1);
+            xorSum ^= nums[n - i -1];
         }
 
         return result;
