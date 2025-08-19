@@ -1,14 +1,26 @@
 class Solution {
     public int maxProductDifference(int[] nums) {
-                java.util.Arrays.sort(nums);
+     int max1 = 0, max2 = 0;
+        int min1 = Integer.MAX_VALUE, min2 = Integer.MAX_VALUE;
 
-        // Calculate the product of the two largest numbers
-        int maxProduct = nums[nums.length - 1] * nums[nums.length - 2];
+        for (int num : nums) {
+            // Track two largest numbers
+            if (num > max1) {
+                max2 = max1;
+                max1 = num;
+            } else if (num > max2) {
+                max2 = num;
+            }
 
-        // Calculate the product of the two smallest numbers
-        int minProduct = nums[0] * nums[1];
+            // Track two smallest numbers
+            if (num < min1) {
+                min2 = min1;
+                min1 = num;
+            } else if (num < min2) {
+                min2 = num;
+            }
+        }
 
-        // Return the difference between the two products
-        return maxProduct - minProduct;
+        return (max1 * max2) - (min1 * min2);
     }
 }
