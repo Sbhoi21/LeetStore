@@ -1,15 +1,21 @@
 class Solution {
-    public List<Integer> targetIndices(int[] arr, int target) {
-           java.util.Arrays.sort(arr);
-        List<Integer> indices = new java.util.ArrayList<>();
-        
-        // Find indices of the target element
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] == target) {
-                indices.add(i);
+    public List<Integer> targetIndices(int[] nums, int target) {
+              int num=0,tcount=0;
+        for(int ele:nums){
+            if(ele==target){
+                tcount++;
             }
+            else if(ele<target){
+                num++;
+            }
+            System.out.println("ele: " + ele + " num: " + num + " tcount: " + tcount);
         }
-        return indices;
+        List<Integer> ans=new ArrayList<>();
+        while(tcount>0){
+            ans.add(num);
+            num++;
+            tcount--;
+        }
+        return ans;    }
 
-    }
 }
