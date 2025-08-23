@@ -8,7 +8,6 @@ class Solution {
             else if(ele<target){
                 num++;
             }
-            System.out.println("ele: " + ele + " num: " + num + " tcount: " + tcount);
         }
         List<Integer> ans=new ArrayList<>();
         while(tcount>0){
