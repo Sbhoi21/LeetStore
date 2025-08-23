@@ -1,24 +1,24 @@
 class Solution {
     public int countConsistentStrings(String allowed, String[] words) {
-        boolean[] bol = new boolean[26];
-        for(char c:allowed.toCharArray()){
-            bol[c-'a'] = true;
+           boolean[] allowedChars = new boolean[26];
+        for (char ch : allowed.toCharArray()) {
+            allowedChars[ch - 'a'] = true;
         }
-        int count=0;
-        for(String s:words){
-            
-            if(find(s,bol)){
+
+        int count = 0;
+        for (String word : words) {
+            boolean isConsistent = true;
+            for (char ch : word.toCharArray()) {
+                if (!allowedChars[ch - 'a']) {
+                    isConsistent = false;
+                    break;
+                }
+            }
+            if (isConsistent) {
                 count++;
             }
         }
+
         return count;
-    }
-    private boolean find(String s,boolean[] arr){
-        for(int i = 0; i < s.length(); ++i){
-            if(!arr[s.charAt(i)-'a']){
-                return false;
-            }
-        }
-        return true;
     }
 }
