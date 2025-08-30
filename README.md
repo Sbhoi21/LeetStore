@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Sbhoi21/LeetStore/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/Sbhoi21/LeetStore/tree/master/1839-decode-xored-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sbhoi21/LeetStore/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Sbhoi21/LeetStore/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Sbhoi21/LeetStore/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sbhoi21/LeetStore/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sbhoi21/LeetStore/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/Sbhoi21/LeetStore/tree/master/1839-decode-xored-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sbhoi21/LeetStore/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Sbhoi21/LeetStore/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -108,8 +110,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/1635-number-of-good-pairs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Sbhoi21/LeetStore/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sbhoi21/LeetStore/tree/master/1786-count-the-number-of-consistent-strings) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Sbhoi21/LeetStore/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Sbhoi21/LeetStore/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Sbhoi21/LeetStore/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
