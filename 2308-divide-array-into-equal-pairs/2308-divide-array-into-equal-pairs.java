@@ -1,18 +1,18 @@
 class Solution {
     public boolean divideArray(int[] arr) {
-              int n = arr.length;
+                int n = arr.length;
         if (n % 2 != 0) {
-            return false;
+            return false; // If the array length is odd, we cannot form pairs
         }
 
-        java.util.HashMap<Integer, Integer> frequencyMap = new java.util.HashMap<>();
+        int[] frequency = new int[501]; // Assuming the range of numbers is 0 to 500
         for (int num : arr) {
-            frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
+            frequency[num]++;
         }
 
-        for (int freq : frequencyMap.values()) {
+        for (int freq : frequency) {
             if (freq % 2 != 0) {
-                return false;
+                return false; // If any number has an odd frequency, pairs cannot be formed
             }
         }
 
