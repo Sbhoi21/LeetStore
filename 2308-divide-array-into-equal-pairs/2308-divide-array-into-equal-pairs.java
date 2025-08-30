@@ -1,8 +1,8 @@
 class Solution {
     public boolean divideArray(int[] arr) {
-        int n = arr.length;
+              int n = arr.length;
         if (n % 2 != 0) {
-            return false; // If the array length is odd, we cannot form pairs
+            return false;
         }
 
         java.util.HashMap<Integer, Integer> frequencyMap = new java.util.HashMap<>();
@@ -12,10 +12,9 @@ class Solution {
 
         for (int freq : frequencyMap.values()) {
             if (freq % 2 != 0) {
-                return false; // If any number has an odd frequency, pairs cannot be formed
+                return false;
             }
         }
 
-        return true; // All numbers have even frequencies, pairs can be formed
-    }
-}
+        return true;
+}}
