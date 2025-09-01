@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Sbhoi21/LeetStore/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Sbhoi21/LeetStore/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/1635-number-of-good-pairs) |
+| [1769-get-maximum-in-generated-array](https://github.com/Sbhoi21/LeetStore/tree/master/1769-get-maximum-in-generated-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sbhoi21/LeetStore/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/Sbhoi21/LeetStore/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/Sbhoi21/LeetStore/tree/master/1839-decode-xored-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Sbhoi21/LeetStore/tree/master/0861-flipping-an-image) |
+| [1769-get-maximum-in-generated-array](https://github.com/Sbhoi21/LeetStore/tree/master/1769-get-maximum-in-generated-array) |
 | [2058-concatenation-of-array](https://github.com/Sbhoi21/LeetStore/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
