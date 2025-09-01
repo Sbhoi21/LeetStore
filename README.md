@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sbhoi21/LeetStore/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sbhoi21/LeetStore/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0307-range-sum-query-mutable](https://github.com/Sbhoi21/LeetStore/tree/master/0307-range-sum-query-mutable) |
 | [0645-set-mismatch](https://github.com/Sbhoi21/LeetStore/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sbhoi21/LeetStore/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sbhoi21/LeetStore/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sbhoi21/LeetStore/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Binary Indexed Tree
 |  |
