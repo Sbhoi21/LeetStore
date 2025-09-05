@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sbhoi21/LeetStore/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0307-range-sum-query-mutable](https://github.com/Sbhoi21/LeetStore/tree/master/0307-range-sum-query-mutable) |
 | [0526-beautiful-arrangement](https://github.com/Sbhoi21/LeetStore/tree/master/0526-beautiful-arrangement) |
+| [0643-maximum-average-subarray-i](https://github.com/Sbhoi21/LeetStore/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Sbhoi21/LeetStore/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sbhoi21/LeetStore/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Sbhoi21/LeetStore/tree/master/0724-find-pivot-index) |
@@ -191,5 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Sbhoi21/LeetStore/tree/master/0643-maximum-average-subarray-i) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sbhoi21/LeetStore/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
