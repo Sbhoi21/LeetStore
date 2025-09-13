@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sbhoi21/LeetStore/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sbhoi21/LeetStore/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2226-rings-and-rods](https://github.com/Sbhoi21/LeetStore/tree/master/2226-rings-and-rods) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0979-di-string-match](https://github.com/Sbhoi21/LeetStore/tree/master/0979-di-string-match) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sbhoi21/LeetStore/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2226-rings-and-rods](https://github.com/Sbhoi21/LeetStore/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sbhoi21/LeetStore/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Backtracking
 |  |
