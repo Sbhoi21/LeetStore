@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Sbhoi21/LeetStore/tree/master/0389-find-the-difference) |
 | [0526-beautiful-arrangement](https://github.com/Sbhoi21/LeetStore/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/Sbhoi21/LeetStore/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Sbhoi21/LeetStore/tree/master/0861-flipping-an-image) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sbhoi21/LeetStore/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Sbhoi21/LeetStore/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Sbhoi21/LeetStore/tree/master/0645-set-mismatch) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sbhoi21/LeetStore/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1472-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1472-increasing-decreasing-string) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sbhoi21/LeetStore/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Sbhoi21/LeetStore/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Sbhoi21/LeetStore/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Sbhoi21/LeetStore/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sbhoi21/LeetStore/tree/master/1019-squares-of-a-sorted-array) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sbhoi21/LeetStore/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Sbhoi21/LeetStore/tree/master/0389-find-the-difference) |
 | [0979-di-string-match](https://github.com/Sbhoi21/LeetStore/tree/master/0979-di-string-match) |
 | [1472-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1472-increasing-decreasing-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sbhoi21/LeetStore/tree/master/1786-count-the-number-of-consistent-strings) |
