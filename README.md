@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sbhoi21/LeetStore/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sbhoi21/LeetStore/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/Sbhoi21/LeetStore/tree/master/0190-reverse-bits) |
 | [0307-range-sum-query-mutable](https://github.com/Sbhoi21/LeetStore/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Sbhoi21/LeetStore/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/Sbhoi21/LeetStore/tree/master/0389-find-the-difference) |
 | [0526-beautiful-arrangement](https://github.com/Sbhoi21/LeetStore/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/Sbhoi21/LeetStore/tree/master/0645-set-mismatch) |
