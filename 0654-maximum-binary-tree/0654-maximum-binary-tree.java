@@ -1,28 +1,50 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
     public TreeNode constructMaximumBinaryTree(int[] nums) {
-        Deque<TreeNode> stack = new ArrayDeque<>();
+        
+        return build(nums, 0, nums.length -1);
 
-        for (int num : nums) {
-            TreeNode curr = new TreeNode(num);
-
-            // smaller elements become left child
-            while (!stack.isEmpty() && stack.peek().val < num) {
-                curr.left = stack.pop();
-            }
-
-            // current becomes right child of stack top
-            if (!stack.isEmpty()) {
-                stack.peek().right = curr;
-            }
-
-            stack.push(curr);
-        }
-
-        // bottom of stack is root
-        TreeNode root = null;
-        while (!stack.isEmpty()) {
-            root = stack.pop();
-        }
-        return root;
     }
+
+    private TreeNode build(int[] nums, int left, int right) {
+
+        if (left > right) {
+            return null;
+
+        }
+
+        int maxIdx = left;
+        for (int i = left + 1; i <= right; i++) {
+
+            if (nums[i] > nums[maxIdx]) {
+                maxIdx = i;
+            }
+
+        }
+
+    TreeNode root = new TreeNode(nums[maxIdx]);
+
+    root.left = build(nums, left, maxIdx -1);
+    root.right = build(nums, maxIdx + 1, right);
+
+    return root;
+
+    }
+
+
+
 }
