@@ -1,33 +1,40 @@
 class Solution {
+    Map<String, List<Character>> map = new HashMap<>();
+
     public boolean pyramidTransition(String bottom, List<String> allowed) {
-        Map<String, List<Character>> map = new HashMap<>();
+        // Build mapping: "AB" -> [C1, C2, ...]
         for (String s : allowed) {
-            String base = s.substring(0, 2);
+            String key = s.substring(0, 2);
             char top = s.charAt(2);
-            map.computeIfAbsent(base, k -> new ArrayList<>()).add(top);
+            map.computeIfAbsent(key, k -> new ArrayList<>()).add(top);
         }
-        
-        return backtrack(bottom, "", map);
+
+        return dfs(bottom);
     }
 
-    private boolean backtrack(String current, String next, Map<String, List<Character>> map) {
-        if (current.length() == 1) {
-            return true;
+    private boolean dfs(String row) {
+        // If we reached the top
+        if (row.length() == 1) return true;
+
+        // Build all possible next rows
+        return buildNextRow(row, 0, new StringBuilder());
+    }
+
+    private boolean buildNextRow(String row, int index, StringBuilder next) {
+        if (index == row.length() - 1) {
+            // Try building pyramid from the next row
+            return dfs(next.toString());
         }
-        if (next.length() == current.length() - 1) {
-            return backtrack(next, "", map);
-        }
 
-        int i = next.length();
-        String base = current.substring(i, i + 2);
+        String key = row.substring(index, index + 2);
+        if (!map.containsKey(key)) return false;
 
-        if (map.containsKey(base)) {
-
-            for (char top : map.get(base)) {
-                if (backtrack(current, next + top, map)) {
-                    return true;
-                }
+        for (char c : map.get(key)) {
+            next.append(c);
+            if (buildNextRow(row, index + 1, next)) {
+                return true;
             }
+            next.deleteCharAt(next.length() - 1); // backtrack
         }
 
         return false;
