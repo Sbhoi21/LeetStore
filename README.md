@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Sbhoi21/LeetStore/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sbhoi21/LeetStore/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Sbhoi21/LeetStore/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sbhoi21/LeetStore/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sbhoi21/LeetStore/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0307-range-sum-query-mutable](https://github.com/Sbhoi21/LeetStore/tree/master/0307-range-sum-query-mutable) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sbhoi21/LeetStore/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Sbhoi21/LeetStore/tree/master/0840-magic-squares-in-grid) |
 | [1635-number-of-good-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sbhoi21/LeetStore/tree/master/1993-sum-of-all-subset-xor-totals) |
