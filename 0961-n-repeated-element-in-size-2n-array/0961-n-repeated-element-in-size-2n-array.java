@@ -1,0 +1,12 @@
+class Solution {
+    public int repeatedNTimes(int[] nums) {
+        HashSet<Integer> seen = new HashSet<>();
+
+        for (int num : nums) {
+            if (!seen.add(num)) {
+                return num;
+            }
+        }
+        return -1; // will never happen as per constraints
+    }
+}
