@@ -1,19 +1,14 @@
-import java.util.*;
 
 class Solution {
-    int ROWS, COLS;
-    int[][] DIRS = {{1,0},{-1,0},{0,1},{0,-1}};
+    private int[][] dirs = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
 
     public int latestDayToCross(int row, int col, int[][] cells) {
-        ROWS = row;
-        COLS = col;
-
         int left = 1, right = cells.length;
         int ans = 0;
 
         while (left <= right) {
             int mid = left + (right - left) / 2;
-            if (canCross(mid, cells)) {
+            if (canCross(row, col, cells, mid)) {
                 ans = mid;
                 left = mid + 1;
             } else {
@@ -23,39 +18,33 @@ class Solution {
         return ans;
     }
 
-    private boolean canCross(int day, int[][] cells) {
-        boolean[][] water = new boolean[ROWS][COLS];
-
-        // mark flooded cells
+    private boolean canCross(int row, int col, int[][] cells, int day) {
+        int[][] grid = new int[row][col];
+        // Fill water for the first 'day' cells
         for (int i = 0; i < day; i++) {
-            int r = cells[i][0] - 1;
-            int c = cells[i][1] - 1;
-            water[r][c] = true;
+            grid[cells[i][0] - 1][cells[i][1] - 1] = 1;
         }
 
-        Queue<int[]> q = new ArrayDeque<>();
-        boolean[][] visited = new boolean[ROWS][COLS];
-
-        // start BFS from top row
-        for (int c = 0; c < COLS; c++) {
-            if (!water[0][c]) {
-                q.offer(new int[]{0, c});
-                visited[0][c] = true;
+        Queue<int[]> queue = new LinkedList<>();
+        // Start BFS from all land cells in the first row
+        for (int c = 0; c < col; c++) {
+            if (grid[0][c] == 0) {
+                queue.offer(new int[]{0, c});
+                grid[0][c] = 1; // Mark as visited
             }
         }
 
-        while (!q.isEmpty()) {
-            int[] cur = q.poll();
-            int r = cur[0], c = cur[1];
+        while (!queue.isEmpty()) {
+            int[] curr = queue.poll();
+            int r = curr[0], c = curr[1];
 
-            if (r == ROWS - 1) return true;
+            if (r == row - 1) return true; // Reached bottom row
 
-            for (int[] d : DIRS) {
+            for (int[] d : dirs) {
                 int nr = r + d[0], nc = c + d[1];
-                if (nr >= 0 && nr < ROWS && nc >= 0 && nc < COLS
-                        && !water[nr][nc] && !visited[nr][nc]) {
-                    visited[nr][nc] = true;
-                    q.offer(new int[]{nr, nc});
+                if (nr >= 0 && nr < row && nc >= 0 && nc < col && grid[nr][nc] == 0) {
+                    grid[nr][nc] = 1; // Mark as visited
+                    queue.offer(new int[]{nr, nc});
                 }
             }
         }
