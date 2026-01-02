@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Sbhoi21/LeetStore/tree/master/0861-flipping-an-image) |
 | [0926-find-and-replace-pattern](https://github.com/Sbhoi21/LeetStore/tree/master/0926-find-and-replace-pattern) |
 | [0941-sort-array-by-parity](https://github.com/Sbhoi21/LeetStore/tree/master/0941-sort-array-by-parity) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Sbhoi21/LeetStore/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0979-di-string-match](https://github.com/Sbhoi21/LeetStore/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sbhoi21/LeetStore/tree/master/1019-squares-of-a-sorted-array) |
 | [1242-matrix-block-sum](https://github.com/Sbhoi21/LeetStore/tree/master/1242-matrix-block-sum) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Sbhoi21/LeetStore/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Sbhoi21/LeetStore/tree/master/0840-magic-squares-in-grid) |
 | [0926-find-and-replace-pattern](https://github.com/Sbhoi21/LeetStore/tree/master/0926-find-and-replace-pattern) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Sbhoi21/LeetStore/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sbhoi21/LeetStore/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1472-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sbhoi21/LeetStore/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
