@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Sbhoi21/LeetStore/tree/master/0756-pyramid-transition-matrix) |
 | [0926-find-and-replace-pattern](https://github.com/Sbhoi21/LeetStore/tree/master/0926-find-and-replace-pattern) |
 | [0979-di-string-match](https://github.com/Sbhoi21/LeetStore/tree/master/0979-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/Sbhoi21/LeetStore/tree/master/1021-remove-outermost-parentheses) |
 | [1472-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1472-increasing-decreasing-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sbhoi21/LeetStore/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sbhoi21/LeetStore/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/0654-maximum-binary-tree) |
+| [1021-remove-outermost-parentheses](https://github.com/Sbhoi21/LeetStore/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sbhoi21/LeetStore/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
