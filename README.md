@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Sbhoi21/LeetStore/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/Sbhoi21/LeetStore/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Sbhoi21/LeetStore/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sbhoi21/LeetStore/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0926-find-and-replace-pattern](https://github.com/Sbhoi21/LeetStore/tree/master/0926-find-and-replace-pattern) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sbhoi21/LeetStore/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sbhoi21/LeetStore/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sbhoi21/LeetStore/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/0654-maximum-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sbhoi21/LeetStore/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sbhoi21/LeetStore/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/0654-maximum-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sbhoi21/LeetStore/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Stack
@@ -306,12 +309,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sbhoi21/LeetStore/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sbhoi21/LeetStore/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sbhoi21/LeetStore/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sbhoi21/LeetStore/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
