@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Sbhoi21/LeetStore/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sbhoi21/LeetStore/tree/master/1019-squares-of-a-sorted-array) |
 | [1242-matrix-block-sum](https://github.com/Sbhoi21/LeetStore/tree/master/1242-matrix-block-sum) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Sbhoi21/LeetStore/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sbhoi21/LeetStore/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Sbhoi21/LeetStore/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sbhoi21/LeetStore/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Sbhoi21/LeetStore/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Sbhoi21/LeetStore/tree/master/0840-magic-squares-in-grid) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Sbhoi21/LeetStore/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Sbhoi21/LeetStore/tree/master/1390-four-divisors) |
 | [1635-number-of-good-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sbhoi21/LeetStore/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sbhoi21/LeetStore/tree/master/1970-last-day-where-you-can-still-cross) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Sbhoi21/LeetStore/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
