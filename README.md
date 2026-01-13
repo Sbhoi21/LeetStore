@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sbhoi21/LeetStore/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/2308-divide-array-into-equal-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/Sbhoi21/LeetStore/tree/master/2402-meeting-rooms-iii) |
+| [3453-separate-squares-i](https://github.com/Sbhoi21/LeetStore/tree/master/3453-separate-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sbhoi21/LeetStore/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sbhoi21/LeetStore/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sbhoi21/LeetStore/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3453-separate-squares-i](https://github.com/Sbhoi21/LeetStore/tree/master/3453-separate-squares-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
