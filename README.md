@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/2308-divide-array-into-equal-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/Sbhoi21/LeetStore/tree/master/2402-meeting-rooms-iii) |
 | [3453-separate-squares-i](https://github.com/Sbhoi21/LeetStore/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Sbhoi21/LeetStore/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sbhoi21/LeetStore/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3454-separate-squares-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3454-separate-squares-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sbhoi21/LeetStore/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sbhoi21/LeetStore/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3453-separate-squares-i](https://github.com/Sbhoi21/LeetStore/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3454-separate-squares-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -343,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sbhoi21/LeetStore/tree/master/1266-minimum-time-visiting-all-points) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
