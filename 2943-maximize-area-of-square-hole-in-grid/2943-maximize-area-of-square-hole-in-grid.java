@@ -1,27 +1,27 @@
-
 class Solution {
     public int maximizeSquareHoleArea(int n, int m, int[] hBars, int[] vBars) {
-        int maxH = getMaxConsecutive(hBars);
-        int maxV = getMaxConsecutive(vBars);
-        
+        int maxH = maxConsecutive(hBars);
+        int maxV = maxConsecutive(vBars);
+
         int side = Math.min(maxH + 1, maxV + 1);
-        
         return side * side;
     }
 
-    private int getMaxConsecutive(int[] bars) {
+    private int maxConsecutive(int[] bars) {
         Arrays.sort(bars);
-        int maxLen = 1;
-        int currentLen = 1;
-        
+
+        int maxRun = 1;
+        int curr = 1;
+
         for (int i = 1; i < bars.length; i++) {
             if (bars[i] == bars[i - 1] + 1) {
-                currentLen++;
+                curr++;
             } else {
-                currentLen = 1;
+                curr = 1;
             }
-            maxLen = Math.max(maxLen, currentLen);
+            maxRun = Math.max(maxRun, curr);
         }
-        return maxLen;
+
+        return maxRun;
     }
 }
