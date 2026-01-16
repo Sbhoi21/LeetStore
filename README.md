@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/2308-divide-array-into-equal-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/Sbhoi21/LeetStore/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sbhoi21/LeetStore/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sbhoi21/LeetStore/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3453-separate-squares-i](https://github.com/Sbhoi21/LeetStore/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/Sbhoi21/LeetStore/tree/master/2226-rings-and-rods) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/2308-divide-array-into-equal-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/Sbhoi21/LeetStore/tree/master/2402-meeting-rooms-iii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sbhoi21/LeetStore/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Sorting
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sbhoi21/LeetStore/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sbhoi21/LeetStore/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Two Pointers
 |  |
 | ------- |
