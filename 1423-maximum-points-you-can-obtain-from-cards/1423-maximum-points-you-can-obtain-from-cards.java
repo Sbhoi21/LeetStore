@@ -7,8 +7,8 @@ class Solution {
         }
         if (k >= n) return sum;
         int maxSum = sum;
-        for ( ; k != 0; k--,n--) {
-            sum += (cardPoints[n-1] - cardPoints[k-1]);
+        for (int right = n-1; k != 0; k--,right--) {
+            sum += (cardPoints[right] - cardPoints[k-1]);
             maxSum = Math.max(maxSum, sum);
         }
         return maxSum;
