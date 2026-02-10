@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Sbhoi21/LeetStore/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/Sbhoi21/LeetStore/tree/master/0861-flipping-an-image) |
 | [0926-find-and-replace-pattern](https://github.com/Sbhoi21/LeetStore/tree/master/0926-find-and-replace-pattern) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sbhoi21/LeetStore/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-sort-array-by-parity](https://github.com/Sbhoi21/LeetStore/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sbhoi21/LeetStore/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0979-di-string-match](https://github.com/Sbhoi21/LeetStore/tree/master/0979-di-string-match) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sbhoi21/LeetStore/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sbhoi21/LeetStore/tree/master/0930-binary-subarrays-with-sum) |
 | [1242-matrix-block-sum](https://github.com/Sbhoi21/LeetStore/tree/master/1242-matrix-block-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sbhoi21/LeetStore/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sbhoi21/LeetStore/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Sbhoi21/LeetStore/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sbhoi21/LeetStore/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0926-find-and-replace-pattern](https://github.com/Sbhoi21/LeetStore/tree/master/0926-find-and-replace-pattern) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sbhoi21/LeetStore/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sbhoi21/LeetStore/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sbhoi21/LeetStore/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1472-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1472-increasing-decreasing-string) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sbhoi21/LeetStore/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sbhoi21/LeetStore/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sbhoi21/LeetStore/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sbhoi21/LeetStore/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Linked List
