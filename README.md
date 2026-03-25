@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sbhoi21/LeetStore/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3453-separate-squares-i](https://github.com/Sbhoi21/LeetStore/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3454-separate-squares-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Sbhoi21/LeetStore/tree/master/3546-equal-sum-grid-partition-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Sbhoi21/LeetStore/tree/master/1833-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/Sbhoi21/LeetStore/tree/master/1895-largest-magic-square) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sbhoi21/LeetStore/tree/master/1940-maximum-xor-for-each-query) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Sbhoi21/LeetStore/tree/master/3546-equal-sum-grid-partition-i) |
 ## Matrix
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Sbhoi21/LeetStore/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sbhoi21/LeetStore/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Sbhoi21/LeetStore/tree/master/1975-maximum-matrix-sum) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Sbhoi21/LeetStore/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sbhoi21/LeetStore/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sbhoi21/LeetStore/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Sbhoi21/LeetStore/tree/master/3546-equal-sum-grid-partition-i) |
 ## Two Pointers
 |  |
 | ------- |
