@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1242-matrix-block-sum](https://github.com/Sbhoi21/LeetStore/tree/master/1242-matrix-block-sum) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sbhoi21/LeetStore/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sbhoi21/LeetStore/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1340-jump-game-v](https://github.com/Sbhoi21/LeetStore/tree/master/1340-jump-game-v) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sbhoi21/LeetStore/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Sbhoi21/LeetStore/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sbhoi21/LeetStore/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Sbhoi21/LeetStore/tree/master/0526-beautiful-arrangement) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sbhoi21/LeetStore/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sbhoi21/LeetStore/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1340-jump-game-v](https://github.com/Sbhoi21/LeetStore/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sbhoi21/LeetStore/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sbhoi21/LeetStore/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Binary Indexed Tree
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Sbhoi21/LeetStore/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sbhoi21/LeetStore/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sbhoi21/LeetStore/tree/master/1200-minimum-absolute-difference) |
+| [1340-jump-game-v](https://github.com/Sbhoi21/LeetStore/tree/master/1340-jump-game-v) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sbhoi21/LeetStore/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sbhoi21/LeetStore/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sbhoi21/LeetStore/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
