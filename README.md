@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Sbhoi21/LeetStore/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sbhoi21/LeetStore/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sbhoi21/LeetStore/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1871-jump-game-vii](https://github.com/Sbhoi21/LeetStore/tree/master/1871-jump-game-vii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sbhoi21/LeetStore/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Sbhoi21/LeetStore/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Sbhoi21/LeetStore/tree/master/1833-find-the-highest-altitude) |
+| [1871-jump-game-vii](https://github.com/Sbhoi21/LeetStore/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/Sbhoi21/LeetStore/tree/master/1895-largest-magic-square) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sbhoi21/LeetStore/tree/master/1940-maximum-xor-for-each-query) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sbhoi21/LeetStore/tree/master/3546-equal-sum-grid-partition-i) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1472-increasing-decreasing-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sbhoi21/LeetStore/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sbhoi21/LeetStore/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1871-jump-game-vii](https://github.com/Sbhoi21/LeetStore/tree/master/1871-jump-game-vii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sbhoi21/LeetStore/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/Sbhoi21/LeetStore/tree/master/1970-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sbhoi21/LeetStore/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Sbhoi21/LeetStore/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sbhoi21/LeetStore/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sbhoi21/LeetStore/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1871-jump-game-vii](https://github.com/Sbhoi21/LeetStore/tree/master/1871-jump-game-vii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sbhoi21/LeetStore/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Linked List
 |  |
