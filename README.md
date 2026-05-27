@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Sbhoi21/LeetStore/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sbhoi21/LeetStore/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sbhoi21/LeetStore/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sorting
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/Sbhoi21/LeetStore/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sbhoi21/LeetStore/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sbhoi21/LeetStore/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Backtracking
 |  |
 | ------- |
