@@ -1,24 +1,24 @@
 class Solution {
   public int numberOfSpecialChars(String word) {
-    int[] lower = new int[26];
+    boolean[] lower = new boolean[26];
+    boolean[] upper = new boolean[26];
     int count = 0;
+
     for (char c : word.toCharArray()) {
       if (c >= 'a' && c <= 'z') {
-        if (lower[c - 'a'] == 2) {
+        if (lower[c - 'a'] == true && upper[c - 'a'] == true) {
           count--;
-          lower[c - 'a'] = 3;
+          lower[c - 'a'] = false;
         }
-        if (lower[c - 'a'] == 0)
-          lower[c - 'a'] = 1;
+        if (lower[c - 'a'] == false && upper[c - 'a'] == false) {
+          lower[c - 'a'] = true;
+        }
       }
       if (c >= 'A' && c <= 'Z') {
-        if (lower[c + 32 - 'a'] == 1) {
+        if (lower[c - 'A'] == true && upper[c - 'A'] == false) {
           count++;
-          lower[c + 32 - 'a'] = 2;
         }
-        if (lower[c + 32 - 'a'] == 0) {
-          lower[c + 32 - 'a'] = 3;
-        }
+        upper[c - 'A'] = true;
       }
     }
 
