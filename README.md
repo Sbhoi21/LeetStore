@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Sbhoi21/LeetStore/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sbhoi21/LeetStore/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sbhoi21/LeetStore/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3093-longest-common-suffix-queries](https://github.com/Sbhoi21/LeetStore/tree/master/3093-longest-common-suffix-queries) |
 | [3453-separate-squares-i](https://github.com/Sbhoi21/LeetStore/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3454-separate-squares-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sbhoi21/LeetStore/tree/master/3546-equal-sum-grid-partition-i) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sbhoi21/LeetStore/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2226-rings-and-rods](https://github.com/Sbhoi21/LeetStore/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sbhoi21/LeetStore/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3093-longest-common-suffix-queries](https://github.com/Sbhoi21/LeetStore/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sbhoi21/LeetStore/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Backtracking
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3454-separate-squares-ii) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/Sbhoi21/LeetStore/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
