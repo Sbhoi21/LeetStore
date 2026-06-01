@@ -3,9 +3,10 @@ class Solution {
 
     Arrays.sort(cost);
     int sum = 0;
-    for (int i = 1, j = cost.length - 1; j >= 0; i++, j--) {
-      if (i % 3 != 0) {
-        sum += cost[j];
+    int n = cost.length;
+    for (int i = 0; i <= n; i++) {
+      if (i % 3 != n % 3) {
+        sum += cost[i];
       }
     }
     return sum;
