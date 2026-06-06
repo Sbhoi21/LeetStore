@@ -4,15 +4,15 @@ class Solution {
         int n = nums.length;
         int answer[] = new int[n];
 
-        int totalSum = 0;
+        int rightSum = 0;
 
         for (int num : nums) {
-            totalSum += num;
+            rightSum += num;
         }
 
         int leftSum = 0;
         for (int i = 0; i < n; i++) {
-            int rightSum = totalSum - leftSum - nums[i];
+            rightSum -= nums[i];
             answer[i] = Math.abs(rightSum - leftSum);
             leftSum += nums[i];
         }
