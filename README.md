@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sbhoi21/LeetStore/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Sbhoi21/LeetStore/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sbhoi21/LeetStore/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sbhoi21/LeetStore/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Sbhoi21/LeetStore/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sbhoi21/LeetStore/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
 | ------- |
