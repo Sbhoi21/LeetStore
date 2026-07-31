@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sbhoi21/LeetStore/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Sbhoi21/LeetStore/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/Sbhoi21/LeetStore/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Sbhoi21/LeetStore/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sbhoi21/LeetStore/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Sbhoi21/LeetStore/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/Sbhoi21/LeetStore/tree/master/0526-beautiful-arrangement) |
 | [0756-pyramid-transition-matrix](https://github.com/Sbhoi21/LeetStore/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sbhoi21/LeetStore/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sbhoi21/LeetStore/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Sbhoi21/LeetStore/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sbhoi21/LeetStore/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sbhoi21/LeetStore/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Sbhoi21/LeetStore/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sbhoi21/LeetStore/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Sbhoi21/LeetStore/tree/master/0257-binary-tree-paths) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sbhoi21/LeetStore/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/1339-maximum-product-of-splitted-binary-tree) |
