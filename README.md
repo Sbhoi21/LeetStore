@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Sbhoi21/LeetStore/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/Sbhoi21/LeetStore/tree/master/1839-decode-xored-array) |
 | [1895-largest-magic-square](https://github.com/Sbhoi21/LeetStore/tree/master/1895-largest-magic-square) |
+| [1929-concatenation-of-array](https://github.com/Sbhoi21/LeetStore/tree/master/1929-concatenation-of-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sbhoi21/LeetStore/tree/master/1940-maximum-xor-for-each-query) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sbhoi21/LeetStore/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Sbhoi21/LeetStore/tree/master/1975-maximum-matrix-sum) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Sbhoi21/LeetStore/tree/master/0861-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/Sbhoi21/LeetStore/tree/master/0874-walking-robot-simulation) |
 | [1769-get-maximum-in-generated-array](https://github.com/Sbhoi21/LeetStore/tree/master/1769-get-maximum-in-generated-array) |
+| [1929-concatenation-of-array](https://github.com/Sbhoi21/LeetStore/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Sbhoi21/LeetStore/tree/master/2058-concatenation-of-array) |
 | [2402-meeting-rooms-iii](https://github.com/Sbhoi21/LeetStore/tree/master/2402-meeting-rooms-iii) |
 ## Bit Manipulation
