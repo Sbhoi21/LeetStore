@@ -19,27 +19,21 @@ class Solution {
             return 0;
         }
 
-        if (i+2*m >= n) {
+        if (i + 2 * m >= n) {
             return suffixStones[i];
         }
 
-        if (dp[i][m] > 0) {
+        if (dp[i][m] != 0) {
             return dp[i][m];
         }
-        int maxStones = 0;
+        int min = Integer.MAX_VALUE;
 
-        for (int x=1; x <= 2*m; x++) {
-
-            int opponent = solve(i+x, Math.max(m, x), piles, suffixStones, dp);
-
-            int current = suffixStones[i] - opponent;
-
-            maxStones = Math.max(maxStones, current);
-
+        for (int x = 1; x <= 2 * m; x++) {
+            int opponent = solve(i + x, Math.max(m, x), piles, suffixStones, dp);
+            min = Math.min(min, opponent);
         }
-
-        dp[i][m] = maxStones;
-        return maxStones;
+        dp[i][m] = suffixStones[i] - min;
+        return dp[i][m];
     }
 
 }
