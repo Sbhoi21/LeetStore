@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sbhoi21/LeetStore/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0979-di-string-match](https://github.com/Sbhoi21/LeetStore/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sbhoi21/LeetStore/tree/master/1019-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/Sbhoi21/LeetStore/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Sbhoi21/LeetStore/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sbhoi21/LeetStore/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1242-matrix-block-sum](https://github.com/Sbhoi21/LeetStore/tree/master/1242-matrix-block-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sbhoi21/LeetStore/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sbhoi21/LeetStore/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0877-stone-game](https://github.com/Sbhoi21/LeetStore/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sbhoi21/LeetStore/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/Sbhoi21/LeetStore/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sbhoi21/LeetStore/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sbhoi21/LeetStore/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sbhoi21/LeetStore/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sbhoi21/LeetStore/tree/master/0930-binary-subarrays-with-sum) |
+| [1140-stone-game-ii](https://github.com/Sbhoi21/LeetStore/tree/master/1140-stone-game-ii) |
 | [1242-matrix-block-sum](https://github.com/Sbhoi21/LeetStore/tree/master/1242-matrix-block-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sbhoi21/LeetStore/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sbhoi21/LeetStore/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sbhoi21/LeetStore/tree/master/0486-predict-the-winner) |
 | [0840-magic-squares-in-grid](https://github.com/Sbhoi21/LeetStore/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/Sbhoi21/LeetStore/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sbhoi21/LeetStore/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sbhoi21/LeetStore/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sbhoi21/LeetStore/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Sbhoi21/LeetStore/tree/master/1390-four-divisors) |
@@ -454,4 +458,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sbhoi21/LeetStore/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sbhoi21/LeetStore/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sbhoi21/LeetStore/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sbhoi21/LeetStore/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sbhoi21/LeetStore/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
