@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Sbhoi21/LeetStore/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sbhoi21/LeetStore/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sbhoi21/LeetStore/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1510-stone-game-iv](https://github.com/Sbhoi21/LeetStore/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/Sbhoi21/LeetStore/tree/master/1871-jump-game-vii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sbhoi21/LeetStore/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Indexed Tree
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sbhoi21/LeetStore/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sbhoi21/LeetStore/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Sbhoi21/LeetStore/tree/master/1390-four-divisors) |
+| [1510-stone-game-iv](https://github.com/Sbhoi21/LeetStore/tree/master/1510-stone-game-iv) |
 | [1635-number-of-good-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sbhoi21/LeetStore/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Sbhoi21/LeetStore/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -459,12 +461,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sbhoi21/LeetStore/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sbhoi21/LeetStore/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sbhoi21/LeetStore/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Sbhoi21/LeetStore/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sbhoi21/LeetStore/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Sbhoi21/LeetStore/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sbhoi21/LeetStore/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Sbhoi21/LeetStore/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sbhoi21/LeetStore/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sbhoi21/LeetStore/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
