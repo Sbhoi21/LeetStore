@@ -1,14 +1,15 @@
 class Solution {
     public boolean winnerSquareGame(int n) {
         int dp[] = new int[n + 1];
+
+        for (int i = 1; i*i <= n; i++) {
+            dp[i*i] = 1;
+        }
+
         return solve(n, dp);
     }
 
     static boolean solve(int i, int[] dp) {
-        
-        if (isPerfectSqare(i)) {
-            return true;
-        }
 
         if (dp[i] == 1) return true;
         if (dp[i] == 2) return false;
@@ -24,11 +25,5 @@ class Solution {
         dp[i] = 2;
         return false;
 
-    }
-
-    static boolean isPerfectSqare(int i) {
-
-        int x = (int) Math.sqrt(i);
-        return (x * x == i);
     }
 }
