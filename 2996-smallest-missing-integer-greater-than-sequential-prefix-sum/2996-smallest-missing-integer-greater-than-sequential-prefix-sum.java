@@ -1,14 +1,9 @@
 class Solution {
     public int missingInteger(int[] nums) {
-        int sum = 0;
-        int sequence = 0;
-        Set set = new HashSet<Integer>();
-        for (int n : nums)
-            set.add(n);
-
-        int i = 0;
+        int sum = nums[0];
+        int i = 1;
         while (i < nums.length) {
-            if (i == 0 || nums[i] == nums[i - 1] + 1) {
+            if (nums[i] == nums[i - 1] + 1) {
                 sum += nums[i];
                 i++;
                 continue;
@@ -17,10 +12,15 @@ class Solution {
         }
 
         while (true) {
-            if (!set.contains(sum)) {
-                return sum;
+            boolean found = false;
+            for (int n : nums) {
+                if (n == sum) {
+                    found = true;
+                }
             }
+            if (!found) return sum;
             sum++;
+
         }
     }
 }
