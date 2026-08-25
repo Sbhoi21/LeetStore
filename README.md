@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sbhoi21/LeetStore/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sbhoi21/LeetStore/tree/master/3546-equal-sum-grid-partition-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sbhoi21/LeetStore/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sbhoi21/LeetStore/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sbhoi21/LeetStore/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Dynamic Programming
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sbhoi21/LeetStore/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sbhoi21/LeetStore/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sbhoi21/LeetStore/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sbhoi21/LeetStore/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sorting
