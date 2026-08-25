@@ -2,15 +2,13 @@ class Solution {
     public int missingMultiple(int[] nums, int k) {
         boolean[] arr = new boolean[101];
         for (int num : nums) {
-            if (num % k == 0 && num / k <= 100) {
-                arr[num / k] = true;
-            }
+            arr[num] = true;
         }
-        for (int i = 1; i <= 100; i++) {
+        for (int i = k; i <= 100; i = i + k) {
             if (!arr[i]) {
-                return i * k;
+                return i;
             }
         }
-        return k * 101;
+        return ((100 / k) + 1) * k;
     }
 }
