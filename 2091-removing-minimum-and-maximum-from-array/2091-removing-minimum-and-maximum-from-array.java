@@ -26,9 +26,6 @@ class Solution {
         if (minI >= r1 && maxI >= r2) {
             return Math.max(r1, r2);
         }
-
-        System.out.println("l1:  " + minI + "   l2:  " + maxI + "   r1: " + r1 + "  r2:  " + r2);
-
         if (minI < maxI) {
             return Math.min(minI + r2, Math.min(maxI, r1));
         } else {
