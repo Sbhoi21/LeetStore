@@ -12,11 +12,10 @@ class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
 
         int first = 0, count = 2, min = Integer.MAX_VALUE, lastPeak = 0;
-        ListNode temp = head.next;
         int prev = head.val;
-        while (temp.next != null) {
-            if ((prev < temp.val && temp.val > temp.next.val) ||
-                    (prev > temp.val && temp.val < temp.next.val)) {
+        while (head.next != null) {
+            if ((prev < head.val && head.val > head.next.val) ||
+                    (prev > head.val && head.val < head.next.val)) {
                 if (first > 0) {
                     min = Math.min(min, count - lastPeak);
                 } else {
@@ -24,8 +23,8 @@ class Solution {
                 }
                 lastPeak = count;
             }
-            prev = temp.val;
-            temp = temp.next;
+            prev = head.val;
+            head = head.next;
             count++;
         }
 
