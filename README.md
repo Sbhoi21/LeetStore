@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Sbhoi21/LeetStore/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sbhoi21/LeetStore/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sbhoi21/LeetStore/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sbhoi21/LeetStore/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sbhoi21/LeetStore/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sbhoi21/LeetStore/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Sbhoi21/LeetStore/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/Sbhoi21/LeetStore/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sbhoi21/LeetStore/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sbhoi21/LeetStore/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sbhoi21/LeetStore/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sbhoi21/LeetStore/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sbhoi21/LeetStore/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
