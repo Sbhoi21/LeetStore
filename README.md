@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sbhoi21/LeetStore/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sbhoi21/LeetStore/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sbhoi21/LeetStore/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Number Theory
 |  |
 | ------- |
