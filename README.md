@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sbhoi21/LeetStore/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sbhoi21/LeetStore/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sbhoi21/LeetStore/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sbhoi21/LeetStore/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Sbhoi21/LeetStore/tree/master/2029-stone-game-ix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sbhoi21/LeetStore/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sbhoi21/LeetStore/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sbhoi21/LeetStore/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
