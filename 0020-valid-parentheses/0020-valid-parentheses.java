@@ -5,23 +5,17 @@ class Solution {
 
         for (char c : s.toCharArray()) {
 
-            if (c == ')') {
-                if (stack.size() > 0 && stack.peek() == '(')
-                    stack.pop();
-                else
+            if (c == '(')
+                stack.push(')');
+            else if (c == '[')
+                stack.push(']');
+            else if (c == '{')
+                stack.push('}');
+            else {
+                if (stack.size() == 0 || stack.peek() != c) {
                     return false;
-            } else if (c == ']') {
-                if (stack.size() > 0 && stack.peek() == '[')
-                    stack.pop();
-                else
-                    return false;
-            } else if (c == '}') {
-                if (stack.size() > 0 && stack.peek() == '{')
-                    stack.pop();
-                else
-                    return false;
-            } else
-                stack.push(c);
+                } else stack.pop();
+            }
         }
         if (stack.size() > 0)
             return false;
