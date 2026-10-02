@@ -25,17 +25,15 @@ class Solution {
         }
 
         int c = 0;
-        for (int i = 0; i < str.length / 2; i++) {
+        int mid = str.length / 2;
+        for (int i = 0; i < mid; i++) {
             if (arr[str[i]]) {
                 c++;
             }
-            if (arr[str[i + str.length / 2]]) {
+            if (arr[str[i + mid]]) {
                 c--;
             }
         }
-        if (c == 0)
-            return true;
-        return false;
-
+        return c == 0;
     }
 }
