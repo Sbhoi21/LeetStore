@@ -1,12 +1,11 @@
 class Solution {
     public int[] diStringMatch(String s) {
         
-        int n = s.length() + 1;
-        int[] arr = new int[n];
+        int n = s.length();
+        int[] arr = new int[n+1];
 
         int i = 0;
         int left = 0;
-        n--;
         for (char c: s.toCharArray()) {
             if (c == 'I') {arr[i++] = left++;}
             if (c == 'D') {arr[i++] = n--;}
