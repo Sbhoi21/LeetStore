@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sbhoi21/LeetStore/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1472-increasing-decreasing-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sbhoi21/LeetStore/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/Sbhoi21/LeetStore/tree/master/1768-merge-strings-alternately) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sbhoi21/LeetStore/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1871-jump-game-vii](https://github.com/Sbhoi21/LeetStore/tree/master/1871-jump-game-vii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sbhoi21/LeetStore/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Sbhoi21/LeetStore/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sbhoi21/LeetStore/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sbhoi21/LeetStore/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/Sbhoi21/LeetStore/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Sbhoi21/LeetStore/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sbhoi21/LeetStore/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sbhoi21/LeetStore/tree/master/2231-find-first-palindromic-string-in-the-array) |
