@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Sbhoi21/LeetStore/tree/master/0926-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sbhoi21/LeetStore/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sbhoi21/LeetStore/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1370-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1370-increasing-decreasing-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sbhoi21/LeetStore/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1472-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sbhoi21/LeetStore/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sbhoi21/LeetStore/tree/master/0451-sort-characters-by-frequency) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sbhoi21/LeetStore/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1370-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1370-increasing-decreasing-string) |
 | [1472-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sbhoi21/LeetStore/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/1635-number-of-good-pairs) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sbhoi21/LeetStore/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sbhoi21/LeetStore/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sbhoi21/LeetStore/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1370-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1370-increasing-decreasing-string) |
 | [1472-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1472-increasing-decreasing-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sbhoi21/LeetStore/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sbhoi21/LeetStore/tree/master/1704-determine-if-string-halves-are-alike) |
