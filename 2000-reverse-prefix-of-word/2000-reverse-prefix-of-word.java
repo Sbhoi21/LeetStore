@@ -7,12 +7,22 @@ class Solution {
             return word;
         }
 
-        StringBuilder prefix = new StringBuilder(
-                word.substring(0, index + 1)
-        );
+       
+       char[] chr = word.toCharArray();
 
-        prefix.reverse();
+       int left = 0, right = index;
 
-        return prefix.toString() + word.substring(index + 1);
+       while (left < right) {
+            char t = chr[left];
+            chr[left] = chr[right];
+            chr[right] = t;
+            left++;
+            right--;
+       }
+
+       return new String(chr);
+
+
+
     }
 }
