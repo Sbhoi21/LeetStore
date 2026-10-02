@@ -1,37 +1,15 @@
 class Solution {
-public static String reverseWords(String s) {
-        StringBuilder result = new StringBuilder();
-        int n = s.length();
-        int i = 0;
+    public String reverseWords(String s) {
 
-        while (i < n) {
-            // Skip spaces
-            while (i < n && s.charAt(i) == ' ') {
-                i++;
-            }
-            if (i >= n) break;
+        String[] stArray = s.split(" ");
+        StringBuilder ans = new StringBuilder();
+        for (String str : stArray) {
+            StringBuilder sb = new StringBuilder(str);
 
-            // Find the end of the word
-            int j = i;
-            while (j < n && s.charAt(j) != ' ') {
-                j++;
-            }
+            ans.append(sb.reverse() + " ");
 
-            // Reverse the word and append to result
-            for (int k = j - 1; k >= i; k--) {
-                result.append(s.charAt(k));
-            }
-            result.append(' ');
-
-            // Move to the next word
-            i = j;
         }
+        return ans.toString().trim();
 
-        // Remove trailing space if exists
-        if (result.length() > 0 && result.charAt(result.length() - 1) == ' ') {
-            result.deleteCharAt(result.length() - 1);
-        }
-
-        return result.toString();
     }
 }
