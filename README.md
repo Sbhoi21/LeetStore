@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Sbhoi21/LeetStore/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/Sbhoi21/LeetStore/tree/master/2029-stone-game-ix) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Sbhoi21/LeetStore/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/Sbhoi21/LeetStore/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sbhoi21/LeetStore/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sbhoi21/LeetStore/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sbhoi21/LeetStore/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sbhoi21/LeetStore/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Sbhoi21/LeetStore/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Sbhoi21/LeetStore/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sbhoi21/LeetStore/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2226-rings-and-rods](https://github.com/Sbhoi21/LeetStore/tree/master/2226-rings-and-rods) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/2308-divide-array-into-equal-pairs) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sbhoi21/LeetStore/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Sbhoi21/LeetStore/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/Sbhoi21/LeetStore/tree/master/2029-stone-game-ix) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Sbhoi21/LeetStore/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sbhoi21/LeetStore/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sbhoi21/LeetStore/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/2308-divide-array-into-equal-pairs) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sbhoi21/LeetStore/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/Sbhoi21/LeetStore/tree/master/1970-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Sbhoi21/LeetStore/tree/master/2000-reverse-prefix-of-word) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Sbhoi21/LeetStore/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sbhoi21/LeetStore/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2226-rings-and-rods](https://github.com/Sbhoi21/LeetStore/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sbhoi21/LeetStore/tree/master/2231-find-first-palindromic-string-in-the-array) |
