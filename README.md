@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Sbhoi21/LeetStore/tree/master/0190-reverse-bits) |
 | [0307-range-sum-query-mutable](https://github.com/Sbhoi21/LeetStore/tree/master/0307-range-sum-query-mutable) |
 | [0654-maximum-binary-tree](https://github.com/Sbhoi21/LeetStore/tree/master/0654-maximum-binary-tree) |
+| [1763-longest-nice-substring](https://github.com/Sbhoi21/LeetStore/tree/master/1763-longest-nice-substring) |
 ## Design
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Sbhoi21/LeetStore/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/Sbhoi21/LeetStore/tree/master/0756-pyramid-transition-matrix) |
 | [0861-flipping-an-image](https://github.com/Sbhoi21/LeetStore/tree/master/0861-flipping-an-image) |
+| [1763-longest-nice-substring](https://github.com/Sbhoi21/LeetStore/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sbhoi21/LeetStore/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/Sbhoi21/LeetStore/tree/master/1839-decode-xored-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sbhoi21/LeetStore/tree/master/1940-maximum-xor-for-each-query) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sbhoi21/LeetStore/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Sbhoi21/LeetStore/tree/master/1635-number-of-good-pairs) |
+| [1763-longest-nice-substring](https://github.com/Sbhoi21/LeetStore/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sbhoi21/LeetStore/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sbhoi21/LeetStore/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sbhoi21/LeetStore/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-increasing-decreasing-string](https://github.com/Sbhoi21/LeetStore/tree/master/1472-increasing-decreasing-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sbhoi21/LeetStore/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sbhoi21/LeetStore/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1763-longest-nice-substring](https://github.com/Sbhoi21/LeetStore/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Sbhoi21/LeetStore/tree/master/1768-merge-strings-alternately) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sbhoi21/LeetStore/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1871-jump-game-vii](https://github.com/Sbhoi21/LeetStore/tree/master/1871-jump-game-vii) |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Sbhoi21/LeetStore/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sbhoi21/LeetStore/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sbhoi21/LeetStore/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1763-longest-nice-substring](https://github.com/Sbhoi21/LeetStore/tree/master/1763-longest-nice-substring) |
 | [1871-jump-game-vii](https://github.com/Sbhoi21/LeetStore/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sbhoi21/LeetStore/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sbhoi21/LeetStore/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
